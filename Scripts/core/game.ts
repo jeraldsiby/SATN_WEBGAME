@@ -10,6 +10,7 @@
   let ScoreBoard: managers.ScoreBoard;
   let keycode: number;
 
+  //manifest file
   let Manifest = [
     { id: "StartButton", src: "Assets/images/StartButton.png" },
     { id: "NextButton", src: "Assets/images/NextButton.png" },
